@@ -1,3 +1,11 @@
+Mini tutorial de como criar esse projeto
+
+- Create-react app frontend
+- Yarn add react-router-dom
+- Yarn add axios
+- Yarn add socket.io-client
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
